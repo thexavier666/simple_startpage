@@ -16,7 +16,7 @@
 a {
 	font-size: 24px;
 	text-decoration: none;
-	display:block;
+	display: block;
 }
 
 body {
@@ -27,7 +27,7 @@ body {
 p {
 	text-align: center;
 	font-family: var(--font-type); 
-	font-size:   28px;
+	font-size: 28px;
 	color: var(--header-color);
 	padding-top: 10px;
 }
@@ -35,36 +35,36 @@ p {
 img {
 	margin-left: auto;
 	margin-right: auto;
-	display:block;
-	border:      var(--border-thickness) solid var(--border-color);
+	width: 564px;
+	display: block;
+	border: var(--border-thickness) solid var(--border-color);
 	border-radius: 0.5rem;
 }
 
 .content {
-	height:    140px;
-	width:     524px;
-	margin:    auto;
-	display:   flex;
+	height: 140px;
+	width: 524px;
+	margin: auto;
+	display: flex;
 	justify-content: space-evenly;
-	padding:   20px;
+	padding: 20px;
 
 	font-family: var(--font-type);
-	background:  var(--card-color);
-	border:      var(--border-thickness) solid var(--border-color);
+	background: var(--card-color);
+	border: var(--border-thickness) solid var(--border-color);
 	border-radius: 0.5rem;
 }
 
 .t_column {
-	float:left;
-	/*padding: 10px;*/
+	float: left;
 }
 
 .t_header {
 	color: var(--header-color);
 	font-size: 24px;
-	font-weight: bold;
+	font-weight: normal;
 	text-decoration: underline;
-	padding-bottom: 10px;
+	padding-bottom: 0px;
 	text-align: left;
 }
 
