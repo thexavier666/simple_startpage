@@ -9,7 +9,8 @@
 	--card-color:         #3E4052;
 	--bg-color:           #1b2b34;
 	--border-color:       #5c6bc0;
-	--border-thickness:   2px;
+	--border-thickness:   2.5px;
+	--border-radius:      0.7rem;
 	--font-type:          'Teko', sans-serif;
 }
 
@@ -21,7 +22,7 @@ a {
 
 body {
 	background-color: var(--bg-color);
-	padding-top: 60px;
+	padding-top: 80px;
 }
 
 p {
@@ -35,24 +36,30 @@ p {
 img {
 	margin-left: auto;
 	margin-right: auto;
-	width: 564px;
+	width: 540px;
 	display: block;
-	border: var(--border-thickness) solid var(--border-color);
-	border-radius: 0.5rem;
+
+	border-style: solid;
+	border-width: var(--border-thickness);
+	border-color: var(--border-color);
+	border-radius: var(--border-radius);
 }
 
 .content {
 	height: 140px;
-	width: 524px;
+	width: 500px;
 	margin: auto;
+	padding: 20px;
 	display: flex;
 	justify-content: space-evenly;
-	padding: 20px;
 
 	font-family: var(--font-type);
 	background: var(--card-color);
-	border: var(--border-thickness) solid var(--border-color);
-	border-radius: 0.5rem;
+
+	border-style: solid;
+	border-width: var(--border-thickness);
+	border-color: var(--border-color);
+	border-radius: var(--border-radius);
 }
 
 .t_column {
