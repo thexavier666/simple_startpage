@@ -9,7 +9,7 @@ I deliberately didn't put a custom search bar because the default search bar sui
 ## Installation
 
 1. Clone/download repository in anyplace.
-I place it on my Raspberry Pi, thus the startpage can be accessed by multiple devices.
+I placed it on my Raspberry Pi, thus the startpage can be accessed by multiple devices.
 2. Host the directory using any http server.
 I use `python3`'s built-in http server like this
 
@@ -38,5 +38,7 @@ If you are going to use more than 3 rows of links in the startpage, consider adj
 
 	.content height
 
+[Image source][2]
 
 [1]: https://addons.mozilla.org/en-US/firefox/addon/new-tab-override/
+[2]: https://1041uuu.tumblr.com/
