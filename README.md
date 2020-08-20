@@ -8,12 +8,12 @@ I deliberately didn't put a custom search bar because the default search bar sui
 
 ## Installation
 
-1. Clone/Download repository in anyplace.
-I place it on my Raspberry Pi, thus the startpage can be accessed by my multiple devices.
+1. Clone/download repository in anyplace.
+I place it on my Raspberry Pi, thus the startpage can be accessed by multiple devices.
 2. Host the directory using any http server.
 I use `python3`'s built-in http server like this
 
-	python3 -m http.server <port> 
+		python3 -m http.server <port> 
 
 3. Open your browser of choice.
 I use Firefox.
