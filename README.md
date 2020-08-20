@@ -17,7 +17,7 @@ I use `python3`'s built-in http server like this
 
 3. Open your browser of choice.
 I use Firefox.
-4. Set homepage as `http://<server IP>:<port>` in **Settings**
+4. Set homepage as `http://<server IP>:<port>/start.html` in **Settings**
 
 ### Set the startpage as the newtab
 
@@ -27,7 +27,7 @@ You need an extension for this to work.
 1. Download [New Tab Override][1]
 2. Open the extension
 3. Set options as **custom URL**
-4. Set URL as `http://<server IP>:<port>` like before
+4. Set URL as `http://<server IP>:<port>/start.html` like before
 
 ## Cutomization
 
