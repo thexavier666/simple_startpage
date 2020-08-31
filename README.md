@@ -10,7 +10,8 @@ I deliberately didn't put a custom search bar because the default search bar sui
 
 1. Clone/download repository in anyplace.
 I placed it on my Raspberry Pi, thus the startpage can be accessed by multiple devices.
-2. Host the directory using any http server.
+2. Navigate to `src` directory.
+Host the directory using any http server.
 I use `python3`'s built-in http server like this
 
 		python3 -m http.server <port> 

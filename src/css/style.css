@@ -6,9 +6,9 @@
 	--link-color-hover:   #FFFFFF;
 	--link-color-visited: #FFFFFF;
 	
-	--card-color:         #3E4052;
-	--bg-color:           #1b2b34;
-	--border-color:       #5c6bc0;
+	--card-color:         #022746;
+	--bg-color:           #011627;
+	--border-color:       #4963F8;
 	--border-thickness:   2.5px;
 	--border-radius:      0.7rem;
 	--font-type:          'Teko', sans-serif;
@@ -22,7 +22,7 @@ a {
 
 body {
 	background-color: var(--bg-color);
-	padding-top: 80px;
+	padding-top: 60px;
 }
 
 p {
@@ -46,7 +46,7 @@ img {
 }
 
 .content {
-	height: 140px;
+	height: 160px;
 	width: 500px;
 	margin: auto;
 	padding: 20px;
