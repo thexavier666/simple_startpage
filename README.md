@@ -1,6 +1,6 @@
 # Simple Startpage
 
-![Blue peek](sample_v2.gif)
+![Blue peek](sample_v3.gif)
 ![Peek](sample.gif)
 
 This is my attempt at creating a simple, lightweight and JavaScript-free startpage after checking our [r/startpages][3].
@@ -12,8 +12,8 @@ I added a GIF to give it a peaceful but retro ambience.
 I frequently change my startpage to match my system theme.
 You can download particular versions if you want to
 
-* [Version 1][https://github.com/thexavier666/simple_startpage/tree/77ff07c171e45b5ca37ca92ad8a99caea88b532d] - This was showcased on [r/startpages][https://www.reddit.com/r/startpages/comments/id5qvh/not_very_original_but_its_mine/]
-* [Version 2][https://github.com/thexavier666/simple_startpage/tree/a35fe7102c78d75506f613594641a40a398a5a30] - New color scheme with a rearranged repo structure
+* [Version 1][7] - This was showcased on [r/startpages][5]
+* [Version 2][8] - New color scheme with a rearranged repo structure
 
 ## Installation
 
@@ -61,4 +61,7 @@ If you are going to use more than 3 rows of links in the startpage, consider adj
 [2]: https://1041uuu.tumblr.com/
 [3]: https://reddit.com/r/startpages
 [4]: https://chequered.ink
+[5]: https://www.reddit.com/r/startpages/comments/id5qvh/not_very_original_but_its_mine/
 [6]: https://chrome.google.com/webstore/detail/custom-new-tab-url/mmjbdbjnoablegbkcklggeknkfcjkjia
+[7]: https://github.com/thexavier666/simple_startpage/tree/77ff07c171e45b5ca37ca92ad8a99caea88b532d
+[8]: https://github.com/thexavier666/simple_startpage/tree/a35fe7102c78d75506f613594641a40a398a5a30
