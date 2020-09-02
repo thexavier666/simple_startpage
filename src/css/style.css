@@ -9,7 +9,7 @@
 	--card-color:         #022746;
 	--bg-color:           #011627;
 	--border-color:       #4963F8;
-	--border-thickness:   0.1px;
+	--border-thickness:   0.0px;
 	--border-radius:      0.0rem;
 	--font-type:          EightBitDragon;
 }
@@ -28,7 +28,7 @@ a {
 
 body {
 	background-color: var(--bg-color);
-	padding-top: 60px;
+	padding-top: 50px;
 }
 
 p {
@@ -52,7 +52,7 @@ img {
 }
 
 .content {
-	height: 150px;
+	height: 160px;
 	width: 500px;
 	margin: auto;
 	margin-top: -1px;
