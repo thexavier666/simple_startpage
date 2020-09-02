@@ -9,7 +9,7 @@
 	--card-color:         #022746;
 	--bg-color:           #011627;
 	--border-color:       #4963F8;
-	--border-thickness:   1.5px;
+	--border-thickness:   0.1px;
 	--border-radius:      0.0rem;
 	--font-type:          EightBitDragon;
 }
@@ -34,7 +34,7 @@ body {
 p {
 	text-align: center;
 	font-family: var(--font-type); 
-	font-size: 24px;
+	font-size: 20px;
 	color: var(--header-color);
 	padding-top: 10px;
 }
@@ -52,9 +52,10 @@ img {
 }
 
 .content {
-	height: 160px;
+	height: 150px;
 	width: 500px;
 	margin: auto;
+	margin-top: -1px;
 	padding: 20px;
 	display: flex;
 	justify-content: space-evenly;
@@ -74,10 +75,10 @@ img {
 
 .t_header {
 	color: var(--header-color);
-	font-size: 20px;
+	font-size: 16px;
 	font-weight: normal;
 	text-decoration: underline;
-	padding-bottom: 5px;
+	padding-bottom: 10px;
 	text-align: left;
 }
 
