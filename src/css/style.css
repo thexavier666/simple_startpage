@@ -9,15 +9,21 @@
 	--card-color:         #022746;
 	--bg-color:           #011627;
 	--border-color:       #4963F8;
-	--border-thickness:   2.5px;
-	--border-radius:      0.7rem;
-	--font-type:          'Teko', sans-serif;
+	--border-thickness:   1.5px;
+	--border-radius:      0.0rem;
+	--font-type:          EightBitDragon;
 }
 
 a {
-	font-size: 24px;
+	font-size: 16px;
 	text-decoration: none;
 	display: block;
+	padding-top: 15px;
+}
+
+@font-face {
+	font-family: EightBitDragon;
+	src: url(../font/EightBitDragon-anqx.ttf);
 }
 
 body {
@@ -28,7 +34,7 @@ body {
 p {
 	text-align: center;
 	font-family: var(--font-type); 
-	font-size: 28px;
+	font-size: 24px;
 	color: var(--header-color);
 	padding-top: 10px;
 }
@@ -68,10 +74,10 @@ img {
 
 .t_header {
 	color: var(--header-color);
-	font-size: 24px;
+	font-size: 20px;
 	font-weight: normal;
 	text-decoration: underline;
-	padding-bottom: 0px;
+	padding-bottom: 5px;
 	text-align: left;
 }
 

@@ -2,11 +2,7 @@
 
 ![Peek](sample.gif)
 
-This is my attempt at creating a simple, lightweight and javascript-free startpage.
-
-I deliberately didn't put a custom search bar because the default search bar suits me more.
-
-## Installation
+This is my attempt at creating a simple, lightweight and javascript-free startpage after checking our [r/startpages][3].
 
 1. Clone/download repository in anyplace.
 I placed it on my Raspberry Pi, thus the startpage can be accessed by multiple devices.
@@ -43,3 +39,4 @@ If you are going to use more than 3 rows of links in the startpage, consider adj
 
 [1]: https://addons.mozilla.org/en-US/firefox/addon/new-tab-override/
 [2]: https://1041uuu.tumblr.com/
+[3]: https://reddit.com/r/startpages
