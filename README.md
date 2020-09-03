@@ -1,24 +1,16 @@
 # Simple Startpage
 
-![Blue peek](sample_v4.gif)
-![Peek](sample.gif)
+![Version 2](screenshots/sample_v4.gif)
+![Version 1](screenshots/sample_v1.gif)
 
 This is my attempt at creating a simple, lightweight and JavaScript-free startpage after checking our [r/startpages][3].
 
 I added a GIF to give it a peaceful but retro ambience.
 
-## Versions
-
-I frequently change my startpage to match my system theme.
-You can download particular versions if you want to
-
-* [Version 1][7] - This was showcased on [r/startpages][5]
-* [Version 2][8] - New color scheme with a rearranged repo structure
-
 ## Installation
 
-1. Clone/download repository in anyplace.
-I placed it on my Raspberry Pi, thus the startpage can be accessed by multiple devices.
+1. Clone/download the repository.
+I placed it on my Raspberry Pi, so that the startpage can be accessed by multiple devices.
 2. Navigate to `src` directory.
 Host the directory using any http server.
 I use `python3`'s built-in http server like this
@@ -50,10 +42,18 @@ If you are going to use more than 3 rows of links in the startpage, consider adj
 
 	.content height
 
+## Versions
+
+I frequently change my startpage to match my system theme.
+You can download particular versions if you want to
+
+* [Version 1][7] - This was showcased on [r/startpages][5]
+* [Version 2][8] - New color scheme with a rearranged repo structure
+
 ## Note
 
 * [Image source][2]
-* Font name - Eight Bit Dragon by [Chequered Ink][4]
+* Font name - **Eight Bit Dragon** by [Chequered Ink][4]
 
 ---
 
