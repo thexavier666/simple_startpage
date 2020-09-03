@@ -11,6 +11,7 @@
 	--border-color:       #4963F8;
 	--border-thickness:   0.0px;
 	--border-radius:      0.0rem;
+	--shadow-size:        10px;
 	--font-type:          EightBitDragon;
 }
 
@@ -45,6 +46,8 @@ img {
 	width: 540px;
 	display: block;
 
+	box-shadow: var(--shadow-size) var(--shadow-size) var(--shadow-size) #000000;
+
 	border-style: solid;
 	border-width: var(--border-thickness);
 	border-color: var(--border-color);
@@ -59,6 +62,8 @@ img {
 	padding: 20px;
 	display: flex;
 	justify-content: space-evenly;
+
+	box-shadow: var(--shadow-size) var(--shadow-size) var(--shadow-size) #000000;
 
 	font-family: var(--font-type);
 	background: var(--card-color);

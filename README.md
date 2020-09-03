@@ -1,6 +1,6 @@
 # Simple Startpage
 
-![Blue peek](sample_v3.gif)
+![Blue peek](sample_v4.gif)
 ![Peek](sample.gif)
 
 This is my attempt at creating a simple, lightweight and JavaScript-free startpage after checking our [r/startpages][3].
